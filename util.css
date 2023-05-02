@@ -1,0 +1,23 @@
+.text-center {
+    text-align: center;
+    color: #FFF;
+}
+
+
+.mx-auto {
+    margin: auto;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+
+}
+
+.Itam-center {
+    align-items: center;
+}
